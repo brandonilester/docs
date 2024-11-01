@@ -1,0 +1,8 @@
+{
+  "label": "Eternity",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Eternity is a packaging tool designed for creating packages compatible with Eon."
+  }
+}

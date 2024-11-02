@@ -11,11 +11,7 @@ Packages are built based on a configuration file and the `eternity build` comman
 
 Before attempting any of this, please read this entire page if you haven't before.
 
-:::note
-Soon, a simple `eternity init` command will create the folders and a simple `eternity.json` for you, and even allow you to specify a git containing the source code.
-:::
-
-1. Create a folder for your package configuration, this will be a git later pushed to Oreon's packages.
+1. Use the `eternity init` command to create a new `eternity.json` file in the current directory, or specify a name to create it in a new folder.
 2. Clone the projects code from a git into a folder named `resources`.
 3. Build an `eternity.json` adhering to the eternity config structure [here](#the-eternityjson-structure).
 4. Test it with the `eternity build` command.

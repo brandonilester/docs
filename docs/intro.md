@@ -6,7 +6,15 @@ sidebar_position: 1
 
 Welcome to **Oreon's** official documentation.
 
-## Main sections
+## Getting started
+
+[**Installing Oreon**](installation/overview): Installation guide
+
+[**Installing Applications**](applications/overview): Installing applications on Oreon
+
+[**Installing Packages**](packages/overview): Installing system packages on Oreon
+
+## Other documentation
 
 [**Eon**](category/eon): Oreon's custom package manager
 

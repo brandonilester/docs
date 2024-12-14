@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.oreonproject.com',
+  url: 'https://help.oreonproject.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -77,7 +77,7 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://git.oreonproject.org/oreonproject/docs',
+          href: 'https://git.oreonproject.org/oreonproject/user-docs',
           label: 'Git Repository',
           position: 'right',
         },
@@ -100,7 +100,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/2U4hE7kQw2',
             },
             {
               label: 'Website',
